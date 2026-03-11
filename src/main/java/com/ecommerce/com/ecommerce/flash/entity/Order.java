@@ -1,6 +1,5 @@
 package com.ecommerce.com.ecommerce.flash.entity;
 
-package com.ecommerce.com.ecommerce.flash.entity;
 
 
 import jakarta.persistence.*;
